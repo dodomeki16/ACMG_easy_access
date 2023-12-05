@@ -1,0 +1,100 @@
+#guidelines {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: left;
+    color: #333;
+    font-family: Montserrat-semibold, sans-serif;
+}
+
+#guidelines h2 {
+    font-size: 24px;
+    color: #0066cc;
+}
+
+#guidelines p {
+    margin-bottom: 15px;
+}
+#guidelines a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+#guidelines a:hover {
+    text-decoration: underline;
+}
+
+
+#rules {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: left;
+    color: #333;
+    font-family: Mont, sans-serif;
+}
+
+#rules h2 {
+    font-size: 24px;
+    color: #131414;
+}
+
+#rules p {
+    margin-bottom: 15px;
+}
+
+#rules a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+#rules a:hover {
+    text-decoration: underline;
+}
+
+
+#criteria {
+    width: 60%;
+    margin: 4vw auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: left;
+    color: #333;
+    font-family: Montserrat, sans-serif;
+}
+
+#criteria h2 {
+    font-size: 24px;
+    color: #0066cc;
+}
+
+#criteria p {
+    margin-bottom: 15px;
+}
+
+#criteria a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+#criteria a:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 100%;
+}
